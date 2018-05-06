@@ -1,0 +1,2 @@
+cerium>=1.2.0
+prompt_toolkit>=1.0.15
