@@ -3,7 +3,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/wireless-control.svg)](https://pypi.org/project/wireless-control/)
 [![Wheel](https://img.shields.io/pypi/wheel/wireless-control.svg)](https://pypi.org/project/wireless-control/)
 [![Python version](https://img.shields.io/pypi/pyversions/wireless-control.svg)](https://pypi.org/project/wireless-control/)
-[![license](https://img.shields.io/github/license/fjwCode/wireless-control.svg)] (https://github.com/fjwCode/wireless-control/LICENSE)
+[![license](https://img.shields.io/github/license/fjwCode/wireless-control.svg)](https://github.com/fjwCode/wireless-control/LICENSE)
 
 > Wireless-control based on wireless-control is a command line wireless control tool for Android automation enthusiasts. 
 
