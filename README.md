@@ -1,5 +1,5 @@
 # Android Wireless Control
-![Platform](https://img.shields.io/badge/Platform-Windows-4BC51D.svg)(https://pypi.org/project/wireless-control/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-4BC51D.svg)](https://pypi.org/project/wireless-control/)
 [![PyPI version](https://img.shields.io/pypi/v/wireless-control.svg)](https://pypi.org/project/wireless-control/)
 [![Wheel](https://img.shields.io/pypi/wheel/wireless-control.svg)](https://pypi.org/project/wireless-control/)
 [![Python version](https://img.shields.io/pypi/pyversions/wireless-control.svg)](https://pypi.org/project/wireless-control/)
