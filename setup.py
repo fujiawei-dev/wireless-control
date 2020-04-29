@@ -2,7 +2,7 @@
 
 '''
 python setup.py sdist
-pip install dist/wireless-control-0.1.0.tar.gz
+pip install dist/wireless-control-0.1.1.tar.gz
 python setup.py bdist_wheel
 pip install twine
 twine upload dist/*
@@ -27,14 +27,14 @@ with open(os.path.join(cwd, 'README.md'), encoding='utf-8') as f:
 setup(
     name='wireless-control',
     py_modules=['wireless_control'],
-    version='0.1.0',
+    version='0.1.1',
     license='BSD',
     author='White Turing',
     author_email='fujiawei@stu.hznu.edu.cn',
     description='A command line wireless control tool for Android.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/fjwCode/wireless-control',
+    url='https://github.com/ffujiawei/wireless-control',
     keywords=['android', 'control', 'automation', 'testing', 'cerium'],
     classifiers=[
         'Intended Audience :: Developers',
